@@ -1,0 +1,37 @@
+@font-face {
+    font-family: Outfit;
+    src: url(fontes/Outfit-VariableFont_wght.ttf);
+}
+
+body{
+    background-color: #ccdffc;
+}
+
+div{
+    
+    background-color: white;
+    text-align: center;
+    margin:0px auto auto auto;
+    width: 500;
+   
+}
+
+img{
+    width: 300px;
+    border-radius: 20px;
+}
+
+.overdiv{
+    border-radius: 20px;
+    border-style: 1px solid #ccdffc;
+    padding: 20px;
+    margin: 0px 485px 0px;
+}
+
+h2{
+    font-family: Outfit;
+}
+
+p{
+    font-family: Outfit;
+}
